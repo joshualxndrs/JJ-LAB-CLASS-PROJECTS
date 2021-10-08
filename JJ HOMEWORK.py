@@ -24,4 +24,3 @@ while count < 6:
 if count >= 6:
     print("\nThe number is %d" % x)
     print("\tBetter Luck Next time hehe")
-
